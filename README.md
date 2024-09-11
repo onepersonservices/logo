@@ -1,14 +1,14 @@
-# [logo.onepersonsaas.com](http://logo.onepersonsaas.com)
+# [logo.onepersonservices.com](http://logo.onepersonservices.com)
 
-+ [onepersonsaas.com](http://www.onepersonsaas.com)
-+ [docs](http://docs.onepersonsaas.com)
-+ [logo](http://logo.onepersonsaas.com)
-+ [roadmap](http://roadmap.onepersonsaas.com)
-+ [identity](http://identity.onepersonsaas.com)
++ [onepersonservices.com](http://www.onepersonservices.com)
++ [docs](http://docs.onepersonservices.com)
++ [logo](http://logo.onepersonservices.com)
++ [roadmap](http://roadmap.onepersonservices.com)
++ [identity](http://identity.onepersonservices.com)
 + [contribution](http://contribution.softreck.dev)
 
 ---
 
-+ [issue](https://github.com/onepersonsaas/logo/issues/new)
-+ [edit](https://github.com/onepersonsaas/logo/edit/main/README.md)
-+ [git](https://github.com/onepersonsaas/) 
++ [issue](https://github.com/onepersonservices/logo/issues/new)
++ [edit](https://github.com/onepersonservices/logo/edit/main/README.md)
++ [git](https://github.com/onepersonservices/) 
